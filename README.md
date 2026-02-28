@@ -1,23 +1,25 @@
-# Personal Resume Website (Exam Project) 🎓
+# Personal Resume Prototype (Exam Project) 🎓
 
-This project was created as a final exam during my web development courses. It serves as a foundation for my future personal portfolio site.
+This is my final exam project from the Web Development course. It serves as a comprehensive layout for a professional CV and personal portfolio.
 
-> **Status:** Current version is an educational prototype. I am planning a major refactor to improve design and code architecture.
+> **Note:** This project represents my early learning stage. While it follows a modular structure, I am planning a complete overhaul to enhance the design and unify the codebase.
+
+## 🌟 Key Features
+- **Multi-page Structure:** Dedicated sections for Experience, Education, and Contacts.
+- **Responsive Layout:** Mobile-friendly design with a custom burger menu implemented via `<details>`.
+- **Visual Effects:** CSS animations (flash effect on targets and sliding image gallery).
 
 ## 🛠 Tech Stack
-- HTML5 & CSS3 (Grid & Flexbox)
-- FontAwesome Icons
-- Responsive Web Design
-
-## 📸 Visual Preview
-
-### Home Page
-![Main Page Preview](screenshots/main_page.png)
-### Contact Page
-![Contact Page Preview](screenshots/kontakt_page.png)
-
+- **HTML5:** Semantic markup for better accessibility.
+- **CSS3:** Advanced layouts using CSS Grid and Flexbox.
+- **Google Fonts:** Integrated typography (Lexend & Zain).
 
 ## 🚀 Roadmap
-- [ ] **Code Cleanup:** Unify multiple CSS files (`header.css`, `index.css`, etc.) into a more modular structure.
-- [ ] **Design Update:** Replace placeholder images and improve color consistency.
-- [ ] **Interactive Elements:** Add a working contact form and a dynamic dark/light mode toggle.
+- [ ] **CSS Refactoring:** Merge separate CSS files into a unified design system.
+- [ ] **Modern Icons:** Replace direct image links with SVG or a consistent icon library.
+- [ ] **Dynamic Content:** Migrate to a JS-driven approach for rendering work experience.
+
+## 📸 Preview
+### Desktop Version
+![Main Page Preview](screenshots/main_page.png)
+![Contact Page Preview](screenshots/kontakt_page.png)
